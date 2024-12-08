@@ -22,7 +22,9 @@ ikonlar ekleme gibi özellikler sunan bir harita tabanlı not alma uygulamasıd�
 
   ## Ekran Görüntüsü
   <br/>
-  ![MapNote](https://github.com/user-attachments/assets/c2f96872-5da1-43ea-a73d-9efc4eaa2fb0)
+
+![MapNote](https://github.com/user-attachments/assets/13d9ba24-75a2-4157-98c7-6e672552cd7f)
+
 
 
 Saygılarımla...
